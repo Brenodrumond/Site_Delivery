@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #A9B2B4;
+
+}
+
+svg {
+    width: 100%;
+    height: 99vh;
+}
+
+.map{
+    border: 0;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    border-radius: 50px;
+    width: 600px;
+    height: 400px;
+    align-items: center;
+}
+
